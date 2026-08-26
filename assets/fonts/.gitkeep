@@ -1,0 +1,7 @@
+# Fonts Directory
+# Store custom font TTF files here
+
+## Fonts included in pubspec.yaml:
+- Roboto-Regular.ttf
+- Roboto-Bold.ttf
+- Roboto-Light.ttf

@@ -1,0 +1,2 @@
+/// Communication module
+/// Handles multi-mode communication (Internet, SMS, WiFi Direct, Bluetooth, Local Storage)
